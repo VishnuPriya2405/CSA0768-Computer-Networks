@@ -38,3 +38,6 @@ int main() {
     
     return 0;
 }
+output:
+Enter the binary data to be stuffed:110101111101011111101011111110
+110101111100101111101010111110110
